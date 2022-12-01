@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "dont buy my merxh buy meatcanon merch/1.0.0": {
+        "runtime": {
+          "dont buy my merxh buy meatcanon merch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dont buy my merxh buy meatcanon merch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

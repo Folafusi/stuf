@@ -1,0 +1,15 @@
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\arrowshit\arrowshit\bin\Debug\net6.0\arrowshit.exe
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\arrowshit\arrowshit\bin\Debug\net6.0\arrowshit.deps.json
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\arrowshit\arrowshit\bin\Debug\net6.0\arrowshit.runtimeconfig.json
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\arrowshit\arrowshit\bin\Debug\net6.0\arrowshit.dll
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\arrowshit\arrowshit\bin\Debug\net6.0\arrowshit.pdb
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\arrowshit\arrowshit\obj\Debug\net6.0\arrowshit.csproj.AssemblyReference.cache
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\arrowshit\arrowshit\obj\Debug\net6.0\arrowshit.GeneratedMSBuildEditorConfig.editorconfig
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\arrowshit\arrowshit\obj\Debug\net6.0\arrowshit.AssemblyInfoInputs.cache
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\arrowshit\arrowshit\obj\Debug\net6.0\arrowshit.AssemblyInfo.cs
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\arrowshit\arrowshit\obj\Debug\net6.0\arrowshit.csproj.CoreCompileInputs.cache
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\arrowshit\arrowshit\obj\Debug\net6.0\arrowshit.dll
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\arrowshit\arrowshit\obj\Debug\net6.0\refint\arrowshit.dll
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\arrowshit\arrowshit\obj\Debug\net6.0\arrowshit.pdb
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\arrowshit\arrowshit\obj\Debug\net6.0\arrowshit.genruntimeconfig.cache
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\arrowshit\arrowshit\obj\Debug\net6.0\ref\arrowshit.dll
