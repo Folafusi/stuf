@@ -1,0 +1,15 @@
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\Lukas_je_blbej_vole\Lukas_je_blbej_vole\bin\Debug\net6.0\Lukas_je_blbej_vole.exe
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\Lukas_je_blbej_vole\Lukas_je_blbej_vole\bin\Debug\net6.0\Lukas_je_blbej_vole.deps.json
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\Lukas_je_blbej_vole\Lukas_je_blbej_vole\bin\Debug\net6.0\Lukas_je_blbej_vole.runtimeconfig.json
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\Lukas_je_blbej_vole\Lukas_je_blbej_vole\bin\Debug\net6.0\Lukas_je_blbej_vole.dll
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\Lukas_je_blbej_vole\Lukas_je_blbej_vole\bin\Debug\net6.0\Lukas_je_blbej_vole.pdb
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\Lukas_je_blbej_vole\Lukas_je_blbej_vole\obj\Debug\net6.0\Lukas_je_blbej_vole.csproj.AssemblyReference.cache
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\Lukas_je_blbej_vole\Lukas_je_blbej_vole\obj\Debug\net6.0\Lukas_je_blbej_vole.GeneratedMSBuildEditorConfig.editorconfig
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\Lukas_je_blbej_vole\Lukas_je_blbej_vole\obj\Debug\net6.0\Lukas_je_blbej_vole.AssemblyInfoInputs.cache
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\Lukas_je_blbej_vole\Lukas_je_blbej_vole\obj\Debug\net6.0\Lukas_je_blbej_vole.AssemblyInfo.cs
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\Lukas_je_blbej_vole\Lukas_je_blbej_vole\obj\Debug\net6.0\Lukas_je_blbej_vole.csproj.CoreCompileInputs.cache
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\Lukas_je_blbej_vole\Lukas_je_blbej_vole\obj\Debug\net6.0\Lukas_je_blbej_vole.dll
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\Lukas_je_blbej_vole\Lukas_je_blbej_vole\obj\Debug\net6.0\refint\Lukas_je_blbej_vole.dll
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\Lukas_je_blbej_vole\Lukas_je_blbej_vole\obj\Debug\net6.0\Lukas_je_blbej_vole.pdb
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\Lukas_je_blbej_vole\Lukas_je_blbej_vole\obj\Debug\net6.0\Lukas_je_blbej_vole.genruntimeconfig.cache
+H:\ME2C_ICT_ZAPISY\Visual_veci\C#\Lukas_je_blbej_vole\Lukas_je_blbej_vole\obj\Debug\net6.0\ref\Lukas_je_blbej_vole.dll
